@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SprBuilder", "SprBuilder.vcxproj", "{F320D4CF-D396-41BF-9429-66C38AD15B2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F320D4CF-D396-41BF-9429-66C38AD15B2C}.Debug|x64.ActiveCfg = Debug|x64
+		{F320D4CF-D396-41BF-9429-66C38AD15B2C}.Debug|x64.Build.0 = Debug|x64
+		{F320D4CF-D396-41BF-9429-66C38AD15B2C}.Debug|x86.ActiveCfg = Debug|Win32
+		{F320D4CF-D396-41BF-9429-66C38AD15B2C}.Debug|x86.Build.0 = Debug|Win32
+		{F320D4CF-D396-41BF-9429-66C38AD15B2C}.Release|x64.ActiveCfg = Release|x64
+		{F320D4CF-D396-41BF-9429-66C38AD15B2C}.Release|x64.Build.0 = Release|x64
+		{F320D4CF-D396-41BF-9429-66C38AD15B2C}.Release|x86.ActiveCfg = Release|Win32
+		{F320D4CF-D396-41BF-9429-66C38AD15B2C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DBA4F9C-AC12-43DD-8EFE-F048F730591B}
+	EndGlobalSection
+EndGlobal
